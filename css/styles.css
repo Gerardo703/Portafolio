@@ -200,12 +200,12 @@ header .menu .c3:hover { background: #002d44; }
 	margin-right: 15px;
 }
 
-.botones a:hover{
-	background: #00426a !important;
+.botones:hover{
+	background: #01446d ;
 	color: #FFF;
 }
 
-.botones a:active{
+.botones:active{
 	background: #005385;
 	color: #FFF;
 }
