@@ -210,6 +210,14 @@ header .menu .c3:hover { background: #002d44; }
 	color: #FFF;
 }
 
+.card{
+	box-shadow: 3px 3px 3px #9ca2aa;
+}
+
+.btn-card:hover{
+	background: #40464d;
+	border: none
+}
 
 
 /* MEDIAQUERIES */
