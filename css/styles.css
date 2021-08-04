@@ -246,6 +246,9 @@ li{
 
 }
 
+@media screen and (max-width: 375px){}
+
+
 /* Dispositivo sm */
 @media screen and (max-width: 320px){
 	.menu  svg{
@@ -259,6 +262,7 @@ li{
 	.slider{
 		display: none;
 	}
+
 }
 
 /* Dispositivo md */
