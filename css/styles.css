@@ -219,6 +219,17 @@ header .menu .c3:hover { background: #002d44; }
 	border: none
 }
 
+.arriba{
+	position:fixed;
+  	bottom:50px;
+  	right:115px;
+  	z-index:2;
+}
+
+li{
+	list-style: none;
+}
+
 
 /* MEDIAQUERIES */
 /* Dispositivo sm */
